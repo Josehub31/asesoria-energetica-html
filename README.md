@@ -1,7 +1,6 @@
 # Asesoría Energética en Aspe · Web en HTML5
 
-Página web de una asesoría energética (ficticia) que ayuda a los clientes a entender y reducir su factura de la luz. Es la práctica de **HTML I y HTML II** del módulo *Lenguajes de Marcas y Sistemas de Gestión de Información* (2.º de DAW), ampliada después con optimización **SEO** y validación del código.
-
+Página web de una asesoría energética que ayuda a los clientes a entender y reducir su factura de la luz.
 La temática viene de mi experiencia como asesor comercial en el sector de la energía.
 
 ![Captura de la página](img/captura.png)
@@ -36,15 +35,12 @@ La temática viene de mi experiencia como asesor comercial en el sector de la en
 ## 📁 Estructura
 ```
 ├── index.html               # Página principal
-├── UD3josebejerano.html     # Misma página, con el nombre pedido en la entrega
+├── UD3josebejerano.html     
 ├── favicon.ico
 └── img/
     └── captura.png
 ```
 
-## 📝 Notas
-- La lista con viñetas cuadradas usa `type="square"`, como pide el enunciado. Sin CSS no hay otra forma de hacerlo, y el validador lo marca como atributo obsoleto.
-- Los datos de contacto son de ejemplo.
 
 ## 👤 Autor
 **Jose Antonio Bejerano** · [github.com/josehub31](https://github.com/josehub31)
